@@ -14,10 +14,10 @@ Practice is nothing without theory.
 |   | [**fract-ol**](./fract-ol) | C | `2D programmation` `fractal` | 2022-01-10 | 125 |
 | 4 | [**minishell**](./minishell) | C | `OS` `shell` `bash` | 2022-06-21 | 125 |
 |   | [**Philosophers**](philosophers/) | C | `threads` | 2022-03-24 | 125 |
-| 5 | [**cub3d**](./cub3d) | C | `raycasting` `graphic design` `algorithm` |  | 2022-09-20 | 118 |
-|   | [**netpractice**]() | - | `network` `OSI protocols` `TCP/IP` |  | 2022-10-02 |
+| 5 | [**cub3d**](./cub3d) | C | `raycasting` `graphic design` `algorithm` | 2022-09-20 | 118 |
+|   | [**netpractice**]() | - | `network` `OSI protocols` `TCP/IP` | 2022-10-02 | 100 |
 |   | [**CPP Module 01-08**](./cpp_modules/) | CPP |  | 2022-08-21 | 100 |
-|   | [**webserv**](./webserv/) | CPP | `webserver` `socket` | 2022-12-11 | 125 |
+| 6 | [**webserv**](./webserv/) | CPP | `webserver` `socket` | 2022-12-11 | 125 |
 |   | [**ft_containers**](./ft_containers/) | CPP | `vector` `map` `red black tree` `set` `stack` | 2022-01-11 | 125 |
-|   | [**Inception**]() | | `Docker-Compose` `DockerFile `| 2022-12-08 | 125 |
+|   | [**Inception**]() | - | `Docker-Compose` `DockerFile `| 2022-12-08 | 125 |
 | 7 | [**ft_transcendence**]() | Typescript | `Web` | 2023-07-26 | 100 |
